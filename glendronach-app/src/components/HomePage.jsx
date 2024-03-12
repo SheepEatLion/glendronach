@@ -36,8 +36,7 @@ function HomePage() {
       <Link to="/detail">
         <img class="btn8" src={process.env.PUBLIC_URL + '/button_next.png'} alt="Next" />
       </Link>
-
-    </div>
+    </img>
   );
 };
 
