@@ -18,7 +18,7 @@ const Home = () => {
   return (
     <div>
       <h1> homepage - test </h1>
-      <img src={process.env.PUBLIC_URL + '/home_backgournd.jpg'} />
+      <img src={process.env.PUBLIC_URL + '/home_background.jpg'} />
       <Link to="/detail">
         <img src={process.env.PUBLIC_URL + '/button_next.png'} />
       </Link>
