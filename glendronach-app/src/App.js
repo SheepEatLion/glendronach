@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
 import { Link, BrowserRouter, Routes, Route } from 'react-router-dom';
-import HomePage from './components/HomePage';
-import DetailPage from './components/DetailPage';
+import HomePage from './src/components/HomePage';
+import DetailPage from './src/components/DetailPage';
 
 
 function App() {
