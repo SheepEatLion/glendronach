@@ -6,10 +6,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url(../public/home_background.jpg);
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-size: cover;
 }
 
 code {
