@@ -7,11 +7,16 @@
 }
 
 .btn1 {
+<<<<<<< HEAD
     width: 150px;
     height: 50px;
 <<<<<<< HEAD
     position: absolute;
 =======
+=======
+    width: 100px;
+    height: 25px;
+>>>>>>> 7d5c9a7 (ㅇㅇ)
     position: fixed;
 >>>>>>> 79abef1 (ff)
     top: 500px;
