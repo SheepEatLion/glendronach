@@ -1,8 +1,8 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import { Link, BrowserRouter, Routes, Route } from 'react-router-dom';
-import { useMediaQuery } from 'react-responsive';
+import HomePage from './components/HomePage';
+import DetailPage from './components/DetailPage';
 
 
 function App() {
