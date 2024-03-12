@@ -2,6 +2,11 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import { Link, BrowserRouter, Routes, Route } from 'react-router-dom';
+import { useMediaQuery } from 'react-responsive';
+
+const movingImage = () => {
+  
+}
 
 function App() {
   return (
@@ -17,7 +22,6 @@ function App() {
 const Home = () => {
   return (
     <div>
-      <h1> homepage - test </h1>
       <img src={process.env.PUBLIC_URL + '/home_background.jpg'} />
       <Link to="/detail">
         <img src={process.env.PUBLIC_URL + '/button_next.png'} />
