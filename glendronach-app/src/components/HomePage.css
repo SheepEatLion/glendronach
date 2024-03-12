@@ -7,6 +7,8 @@
 }
 
 .btn1 {
+    width: 100px;
+    height: 50px;
     position: absolute;
     top: 50px;
     left: 50px;
