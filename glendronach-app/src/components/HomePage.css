@@ -3,9 +3,9 @@
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
-    background-attachment: scroll;
-    overflow: scroll;
-    height: 100vh;
+    background-attachment: fixed;
+    height: 2000px;
+    
 }
 
 .btn1 {
