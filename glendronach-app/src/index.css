@@ -8,16 +8,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-image: url(../public/home_background.jpg);
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: center;
   background-size: cover;
-  background-attachment: fixed;
-}
-
-@media (max-width: 768px) {
-  body {
-    background-size: contain;
-    background-attachment: scroll;
-  }
 }
 
 code {
