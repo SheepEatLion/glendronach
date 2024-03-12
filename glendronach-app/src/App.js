@@ -22,7 +22,7 @@ function App() {
 const Home = () => {
   return (
     <div>
-      <img src={process.env.PUBLIC_URL + '/home_background.jpg'} />
+      
       <Link to="/detail">
         <img src={process.env.PUBLIC_URL + '/button_next.png'} />
       </Link>
