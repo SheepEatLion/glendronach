@@ -1,7 +1,9 @@
 .home {
     position: relative;
+    z-index: 1;
 }
 
 .btn1 {
     position: absolute;
+    z-index: 2;
 }
