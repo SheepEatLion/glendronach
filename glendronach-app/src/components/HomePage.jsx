@@ -4,7 +4,8 @@ import { Link } from 'react-router-dom';
 
 function HomePage() {
   return (
-    <img class="home" src={process.env.PUBLIC_URL + '/home_background.jpg'} alt="home">
+    <div>
+    <img class="home" src={process.env.PUBLIC_URL + '/home_background.jpg'} alt="home" />
       <Link to="/detail">
         <img class="btn1" src={process.env.PUBLIC_URL + '/button_next.png'} alt="Next" />
       </Link>
@@ -36,7 +37,7 @@ function HomePage() {
       <Link to="/detail">
         <img class="btn8" src={process.env.PUBLIC_URL + '/button_next.png'} alt="Next" />
       </Link>
-    </img>
+    </div>
   );
 };
 
