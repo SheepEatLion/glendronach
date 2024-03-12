@@ -21,12 +21,9 @@ function App() {
 
 const Home = () => {
   return (
-    <div>
-      
       <Link to="/detail">
         <img src={process.env.PUBLIC_URL + '/button_next.png'} />
       </Link>
-    </div>
   );
 };
 
