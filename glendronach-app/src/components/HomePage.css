@@ -1,11 +1,9 @@
 .HomePage {
     background-image: url(../../public/home_background.jpg);
-    background-repeat: no-repeat;
-    background-position: top center;
-    background-size: cover;
-    background-attachment: fixed;
-    height: 2000px;
-    
+    background-size: auto; /* 배경 이미지 크기 그대로 유지 */
+    width: 100%;
+    height: 100vh;
+    overflow: auto;
 }
 
 .btn1 {
