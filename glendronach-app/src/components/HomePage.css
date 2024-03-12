@@ -9,7 +9,11 @@
 .btn1 {
     width: 150px;
     height: 50px;
+<<<<<<< HEAD
     position: absolute;
+=======
+    position: fixed;
+>>>>>>> 79abef1 (ff)
     top: 500px;
     left: 50px;
 }
