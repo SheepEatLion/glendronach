@@ -5,12 +5,12 @@ import { Link } from 'react-router-dom';
 function HomePage() {
   return (
     <div>
-      <div style="position:relative;">
-      <img class="home" src={process.env.PUBLIC_URL + '/home_background.jpg'} alt="home" />
+      <div class="home">
+      <img src={process.env.PUBLIC_URL + '/home_background.jpg'} alt="home" />
       </div>
         <Link to="/detail">
-          <div style="position:absolute;">
-          <img class="btn1" src={process.env.PUBLIC_URL + '/button_next.png'} alt="Next" />
+          <div class="btn1">
+          <img src={process.env.PUBLIC_URL + '/button_next.png'} alt="Next" />
           </div>
         </Link>
 
