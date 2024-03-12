@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 function HomePage() {
   return (
-    <div class="HomePage">
+    <img src={process.env.PUBLIC_URL + '/home_background.jpg'} alt="home">
       <Link to="/detail">
         <img class="btn1" src={process.env.PUBLIC_URL + '/button_next.png'} alt="Next" />
       </Link>
