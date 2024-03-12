@@ -7,9 +7,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-image: url(../public/home_background.jpg);
   background-repeat: no-repeat;
-  background-position: top center;
+  background-position: center;
   background-size: contain;
-  background-attachment: local;
+  background-attachment: scroll;
 }
 
 code {
