@@ -33,7 +33,6 @@ const Home = () => {
 const Detail = () => {
   return (
     <div>
-      <h1> detailPage - test </h1>
       <img src={process.env.PUBLIC_URL + '/detail_12years.jpg'} />
       <Link to="/">
         <img src={process.env.PUBLIC_URL + '/button_back.png'} />
