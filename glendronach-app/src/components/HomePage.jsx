@@ -8,7 +8,7 @@ function HomePage() {
       backgroundImage: 'url(../../public/home_background.jpg)',
       backgroundRepeat: 'no-repeat',
       backgroundPosition: 'top center',
-      backgroundSize: cover
+      backgroundSize: 'cover'
     }}>
       테스트
       <Link to="/detail">
