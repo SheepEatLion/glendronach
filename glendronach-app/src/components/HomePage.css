@@ -34,20 +34,20 @@
 .btn5 {
     position: absolute;
     z-index: 2;
-    top: 1500px;
-    left: 200px;
+    top: 1710px;
+    left: 230px;
 }
 
 .btn6 {
     position: absolute;
     z-index: 2;
     top: 1710px;
-    left: 400px;
+    left: 500px;
 }
 
 .btn7 {
     position: absolute;
     z-index: 2;
-    top: 1500px;
-    left: 600px;
+    top: 1710px;
+    left: 770px;
 }
