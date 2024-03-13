@@ -15,31 +15,39 @@ function HomePage() {
         </Link>
 
         <Link to="/detail">
-          <img class="btn2" src={process.env.PUBLIC_URL + '/button_next.png'} alt="Next" />
+          <div class="btn2">
+          <img src={process.env.PUBLIC_URL + '/button_next.png'} alt="Next" />
+          </div>
         </Link>
 
         <Link to="/detail">
-          <img class="btn3" src={process.env.PUBLIC_URL + '/button_next.png'} alt="Next" />
+          <div class="btn3">
+          <img src={process.env.PUBLIC_URL + '/button_next.png'} alt="Next" />
+          </div>
         </Link>
 
         <Link to="/detail">
-          <img class="btn4" src={process.env.PUBLIC_URL + '/button_next.png'} alt="Next" />
+          <div class="btn4">
+          <img src={process.env.PUBLIC_URL + '/button_next.png'} alt="Next" />
+          </div>
         </Link>
 
         <Link to="/detail">
-          <img class="btn5" src={process.env.PUBLIC_URL + '/button_next.png'} alt="Next" />
+          <div class="btn5">
+          <img src={process.env.PUBLIC_URL + '/button_next.png'} alt="Next" />
+          </div>
         </Link>
 
         <Link to="/detail">
-          <img class="btn6" src={process.env.PUBLIC_URL + '/button_next.png'} alt="Next" />
+          <div class="btn6">
+          <img src={process.env.PUBLIC_URL + '/button_next.png'} alt="Next" />
+          </div>
         </Link>
 
         <Link to="/detail">
-          <img class="btn7" src={process.env.PUBLIC_URL + '/button_next.png'} alt="Next" />
-        </Link>
-
-        <Link to="/detail">
-          <img class="btn8" src={process.env.PUBLIC_URL + '/button_next.png'} alt="Next" />
+          <div class="btn7">
+          <img src={process.env.PUBLIC_URL + '/button_next.png'} alt="Next" />
+          </div>
         </Link>
     </div>
   );

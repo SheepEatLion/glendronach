@@ -9,3 +9,45 @@
     top: 1000px;
     left: 100px;
 }
+
+.btn2 {
+    position: absolute;
+    z-index: 2;
+    top: 1000px;
+    left: 300px;
+}
+
+.btn3 {
+    position: absolute;
+    z-index: 2;
+    top: 1000px;
+    left: 500px;
+}
+
+.btn4 {
+    position: absolute;
+    z-index: 2;
+    top: 1000px;
+    left: 700px;
+}
+
+.btn5 {
+    position: absolute;
+    z-index: 2;
+    top: 1500px;
+    left: 200px;
+}
+
+.btn6 {
+    position: absolute;
+    z-index: 2;
+    top: 1500px;
+    left: 400px;
+}
+
+.btn7 {
+    position: absolute;
+    z-index: 2;
+    top: 1500px;
+    left: 600px;
+}
