@@ -8,10 +8,12 @@ export default function Detail() {
   const { years } = useParams();
 
   return (
-    <div>
-      <img src={process.env.PUBLIC_URL + '/detail_'+years+'.jpg'} />
+    <div class="mainImg">
+      <img src={process.env.PUBLIC_URL + '/detail_'+years+'.jpg'} alt="mainImg" />
       <Link to="/">
-        <img src={process.env.PUBLIC_URL + '/button_back.png'} />
+        <div class="back">
+        <img src={process.env.PUBLIC_URL + '/button_back.png'} alt="back" />
+        </div>
       </Link>
     </div>
   )
