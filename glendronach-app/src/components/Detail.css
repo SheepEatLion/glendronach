@@ -1,0 +1,11 @@
+.mainImg {
+    position: relative;
+    z-index: 1;
+}
+
+.back {
+    position: absolute;
+    z-index: 2;
+    top: 200px;
+    left: 100px;
+}
