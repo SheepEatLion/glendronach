@@ -6,6 +6,7 @@
 
 .img {
     object-fit: fill;
+    width: 50%;
 }
 
 .btn1 {
