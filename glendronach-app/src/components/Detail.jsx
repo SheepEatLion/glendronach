@@ -1,5 +1,5 @@
 import React from 'react';
-import './DetailPage.css';
+import './Detail.css';
 import { Link, BrowserRouter, Routes, Route } from 'react-router-dom';
 import { useParams } from 'react-router';
 
