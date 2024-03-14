@@ -4,8 +4,8 @@
     width: 1200px;
 }
 
-.imgtest {
-    object-fit: contain;
+.img {
+    object-fit: fill;
 }
 
 .btn1 {
