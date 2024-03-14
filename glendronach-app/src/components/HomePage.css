@@ -2,7 +2,7 @@
     position: relative;
     z-index: 1;
     width: 1200px;
-    object-fit: fill;
+    object-fit: contain;
 }
 
 .btn1 {
