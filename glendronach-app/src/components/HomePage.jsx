@@ -8,7 +8,7 @@ function HomePage() {
       <div class="home">
       <img src={process.env.PUBLIC_URL + '/home_background.jpg'} alt="home" />
       </div>
-        <Link to="/detail/:years">
+        <Link to="/detail/12years">
           <div class="bottle12">
           <img src={process.env.PUBLIC_URL + '/bottle_12years.png'} alt="bottle" />
           </div>
