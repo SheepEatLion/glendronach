@@ -1,3 +1,7 @@
+.root {
+    width: 1200px;
+}
+
 .home {
     position: relative;
     z-index: 1;
