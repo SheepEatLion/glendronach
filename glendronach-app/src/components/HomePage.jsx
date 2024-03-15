@@ -34,7 +34,7 @@ function HomePage() {
 
         <Link to="/detail/18years">
           <div class="bottle18">
-          <img class="img"  src={process.env.PUBLIC_URL + '/bottle_18years.png'} alt="bottle" />
+          <img class="img"  src={process.env.PUBLIC_URL + '/18years.png'} alt="bottle" />
           </div>
         </Link>
 
