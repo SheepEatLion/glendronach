@@ -40,8 +40,8 @@
 .btn5 {
     position: absolute;
     z-index: 2;
-    top: 1400px;
-    left: 200px;
+    top: 1100px;
+    left: 180px;
 }
 
 .btn6 {
@@ -96,13 +96,13 @@
 .bottle29 {
     position: absolute;
     z-index: 2;
-    top: 1120px;
-    left: 530px;
+    top: 780px;
+    left: 370px;
 }
 
 .bottleportwood {
     position: absolute;
     z-index: 2;
-    top: 1120px;
-    left: 800px;
+    top: 780px;
+    left: 560px;
 }
