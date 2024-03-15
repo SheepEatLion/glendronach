@@ -83,23 +83,26 @@
 }
 
 .bottle15 {
+    width: 90px;
     position: absolute;
     z-index: 2;
-    top: 310px;
+    top: 250px;
     left: 280px;
 }
 
 .bottle18 {
+    width: 90px;
     position: absolute;
     z-index: 2;
-    top: 310px;
+    top: 250px;
     left: 470px;
 }
 
 .bottle21 {
+    width: 90px;
     position: absolute;
     z-index: 2;
-    top: 310px;
+    top: 250px;
     left: 660px;
 }
 
