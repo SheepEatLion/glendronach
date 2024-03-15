@@ -29,7 +29,7 @@ export default function Detail() {
   }, []);
 
   return (
-    <div class="mainImg">
+    <div class="mainDiv">
       <img class="img" src={process.env.PUBLIC_URL + '/'+years+'.png'} alt="mainImg" />
       <Link to="/">
         <div class="back">
