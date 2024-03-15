@@ -30,23 +30,26 @@
 }
 
 .btn2 {
+    width: 120px;
     position: absolute;
     z-index: 2;
-    top: 700px;
+    top: 625px;
     left: 270px;
 }
 
 .btn3 {
+    width: 120px;
     position: absolute;
     z-index: 2;
-    top: 700px;
+    top: 625px;
     left: 460px;
 }
 
 .btn4 {
+    width: 120px;
     position: absolute;
     z-index: 2;
-    top: 700px;
+    top: 625px;
     left: 650px;
 }
 
@@ -75,7 +78,7 @@
     width: 90px;
     position: absolute;
     z-index: 2;
-    top: 310px;
+    top: 250px;
     left: 90px;
 }
 
