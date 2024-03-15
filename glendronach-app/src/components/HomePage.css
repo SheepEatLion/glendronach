@@ -22,7 +22,7 @@
 }
 
 .btn1 {
-    width: 150px;
+    width: 130px;
     position: absolute;
     z-index: 2;
     top: 700px;
@@ -72,6 +72,7 @@
 }
 
 .bottle12 {
+    width: 130px;
     position: absolute;
     z-index: 2;
     top: 310px;
