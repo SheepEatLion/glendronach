@@ -1,8 +1,9 @@
 .home {
     position: relative;
     z-index: 1;
-    width: 700px;
-    height: 1166px;
+    width: 1200px;
+    height: 2000px;
+    overflow: hidden;
 }
 
 .img {
