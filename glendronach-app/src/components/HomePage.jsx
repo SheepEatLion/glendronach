@@ -4,9 +4,9 @@ import { Link } from 'react-router-dom';
 
 function HomePage() {
   return (
-    <div>
+    <div class="root">
       <div class="home">
-      <img class="img" src={process.env.PUBLIC_URL + '/home_background.jpg'} alt="home" />
+      <img class="img" src={process.env.PUBLIC_URL + '/glendronach_home.jpg'} alt="home" />
       </div>
         <Link to="/detail/12years">
           <div class="bottle12">
