@@ -11,3 +11,8 @@
     top: 80px;
     left: 90px;
 }
+
+.img {
+    object-fit: fill;
+    width: 70%;
+}
