@@ -13,14 +13,14 @@
 .btn1 {
     position: absolute;
     z-index: 2;
-    top: 700px;
+    top: 500px;
     left: 80px;
 }
 
 .btn2 {
     position: absolute;
     z-index: 2;
-    top: 700px;
+    top: 500px;
     left: 270px;
 }
 
