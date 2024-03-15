@@ -6,7 +6,7 @@ function HomePage() {
   return (
     <div class="root">
       <div class="home">
-      <img class="img" src={process.env.PUBLIC_URL + '/home.png'} alt="home" />
+      <img class="img_background" src={process.env.PUBLIC_URL + '/home.png'} alt="home" />
       </div>
         <Link to="/detail/12years">
           <div class="bottle12">
