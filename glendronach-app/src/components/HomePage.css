@@ -107,20 +107,23 @@
 }
 
 .bottle28 {
+    width: 90px;
     position: absolute;
     z-index: 2;
-    top: 780px;
+    top: 580px;
     left: 180px;
 }
 
 .bottle29 {
+    width: 90px;
     position: absolute;
     z-index: 2;
-    top: 780px;
+    top: 680px;
     left: 370px;
 }
 
 .bottleportwood {
+    width: 90px;
     position: absolute;
     z-index: 2;
     top: 780px;
