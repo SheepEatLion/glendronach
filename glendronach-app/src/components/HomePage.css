@@ -3,15 +3,11 @@
     z-index: 1;
     width: 1200px;
     height: 2000px;
-    overflow: hidden;
-    max-width: 1200px;
 }
 
 .img {
-    width: 1200px;
-    height: 100%;
-    padding: 0 auto;
-    margin: 0 auto;
+    width: 100%;
+    object-fit: fill;
 }
 
 .btn1 {
